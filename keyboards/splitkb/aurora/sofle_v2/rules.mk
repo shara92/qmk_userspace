@@ -1,0 +1,5 @@
+DEFAULT_FOLDER = splitkb/aurora/sofle_v2/shara92
+ENCODER_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+TAP_DANCE_ENABLE = yes
+SEND_STRING_ENABLE = yes
